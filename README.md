@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola sou Otavio e estudo no francisco cristiano 👋
 
 <!--
 **otaviobimds2c/otaviobimds2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
